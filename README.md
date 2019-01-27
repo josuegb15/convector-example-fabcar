@@ -16,6 +16,8 @@ The idea is to showcase how to migrate your mental concepts from Go development 
 ## Run this project
 
 ```bash
+# Install Packages
+npm i
 # Compile everything
 npx lerna bootstrap
 # Wake yourself up a dev blockchain
